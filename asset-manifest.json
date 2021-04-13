@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/vepay-admin/static/css/main.8fa2eafe.chunk.css",
-    "main.js": "/vepay-admin/static/js/main.e53ca2d9.chunk.js",
-    "main.js.map": "/vepay-admin/static/js/main.e53ca2d9.chunk.js.map",
+    "main.css": "/vepay-admin/static/css/main.6de65ee5.chunk.css",
+    "main.js": "/vepay-admin/static/js/main.3fa422f2.chunk.js",
+    "main.js.map": "/vepay-admin/static/js/main.3fa422f2.chunk.js.map",
     "runtime-main.js": "/vepay-admin/static/js/runtime-main.69f79693.js",
     "runtime-main.js.map": "/vepay-admin/static/js/runtime-main.69f79693.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/vepay-admin/static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.c86cff97.chunk.js": "/vepay-admin/static/js/2.c86cff97.chunk.js",
-    "static/js/2.c86cff97.chunk.js.map": "/vepay-admin/static/js/2.c86cff97.chunk.js.map",
+    "static/js/2.58f8b150.chunk.js": "/vepay-admin/static/js/2.58f8b150.chunk.js",
+    "static/js/2.58f8b150.chunk.js.map": "/vepay-admin/static/js/2.58f8b150.chunk.js.map",
     "index.html": "/vepay-admin/index.html",
-    "precache-manifest.9050b2e5f3b65ce022638f3bd28c0940.js": "/vepay-admin/precache-manifest.9050b2e5f3b65ce022638f3bd28c0940.js",
+    "precache-manifest.4532872bb8c3fd1d3deb490cf019b274.js": "/vepay-admin/precache-manifest.4532872bb8c3fd1d3deb490cf019b274.js",
     "service-worker.js": "/vepay-admin/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/vepay-admin/static/css/2.d9ad5f5c.chunk.css.map",
-    "static/css/main.8fa2eafe.chunk.css.map": "/vepay-admin/static/css/main.8fa2eafe.chunk.css.map",
-    "static/js/2.c86cff97.chunk.js.LICENSE.txt": "/vepay-admin/static/js/2.c86cff97.chunk.js.LICENSE.txt",
+    "static/css/main.6de65ee5.chunk.css.map": "/vepay-admin/static/css/main.6de65ee5.chunk.css.map",
+    "static/js/2.58f8b150.chunk.js.LICENSE.txt": "/vepay-admin/static/js/2.58f8b150.chunk.js.LICENSE.txt",
     "static/media/logo-white-text.svg": "/vepay-admin/static/media/logo-white-text.24b74a4b.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.69f79693.js",
     "static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.c86cff97.chunk.js",
-    "static/css/main.8fa2eafe.chunk.css",
-    "static/js/main.e53ca2d9.chunk.js"
+    "static/js/2.58f8b150.chunk.js",
+    "static/css/main.6de65ee5.chunk.css",
+    "static/js/main.3fa422f2.chunk.js"
   ]
 }

@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "66f1469bb765e3ede91eae732fe80a28",
+    "revision": "a51b0ab114a964c7a992821835eaa8d6",
     "url": "/vepay-admin/index.html"
   },
   {
-    "revision": "d5c58487dc710b5397d2",
+    "revision": "c68b7ea4822826bf90fc",
     "url": "/vepay-admin/static/css/2.d9ad5f5c.chunk.css"
   },
   {
-    "revision": "4689b405545c71c6e91c",
-    "url": "/vepay-admin/static/css/main.8fa2eafe.chunk.css"
+    "revision": "1faacaa56e0f3b9bab0b",
+    "url": "/vepay-admin/static/css/main.6de65ee5.chunk.css"
   },
   {
-    "revision": "d5c58487dc710b5397d2",
-    "url": "/vepay-admin/static/js/2.c86cff97.chunk.js"
+    "revision": "c68b7ea4822826bf90fc",
+    "url": "/vepay-admin/static/js/2.58f8b150.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/vepay-admin/static/js/2.c86cff97.chunk.js.LICENSE.txt"
+    "url": "/vepay-admin/static/js/2.58f8b150.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4689b405545c71c6e91c",
-    "url": "/vepay-admin/static/js/main.e53ca2d9.chunk.js"
+    "revision": "1faacaa56e0f3b9bab0b",
+    "url": "/vepay-admin/static/js/main.3fa422f2.chunk.js"
   },
   {
     "revision": "562ed3a8660672ec0859",
